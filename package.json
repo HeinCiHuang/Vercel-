@@ -1,0 +1,15 @@
+{
+  "name": "vercel-stealth-redirect",
+  "version": "1.0.0",
+  "description": "使用Vercel实现域名隐性和常规重定向",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
